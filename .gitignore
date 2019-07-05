@@ -3,6 +3,7 @@
 *.opensdf
 *.sdf
 *~
+*.vcxproj.user
 /build-*/*/*/Debug
 /build-*/*/*/Release
 /build-*/*/Debug
